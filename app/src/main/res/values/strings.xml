@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GuessNumer</string>
+    <string name="tvNombre">Introduce your name</string>
+    <string name="edText"></string>
+    <string name="tvIntentos">How many attempts?</string>
+    <string name="tvTitulo">GUESS THE NUMBER BETWEEN 1 TO 100</string>
+    <string name="edText2"></string>
+    <string name="btJugar">To play!</string>
+    <string name="tvIntenta">Enter the number:</string>
+    <string name="edNumero"></string>
+    <string name="btComprobar">check</string>
+    <string name="btBorra">Delete</string>
+    <string name="txEstado" />
+    <string name="tvResultado">The number was: </string>
+    <string name="tvFin">You lost</string>
+    <string name="tvFin2">You win</string>
+    <string name="tvResultadoGanaste">The attempts that cost you: </string>
+    <string name="txEstadoIn">Remaining Attempts </string>
+    <string name="txEstado1">You got it right</string>
+    <string name="txEstado2">Is minor</string>
+    <string name="txEstado3">Is older</string>
+
+    <!--Errores-->
+    <!--ConfigActivity-->
+    <string name="tvTitulo_errInt">GUESS THE NUMBER BETWEEN 1 TO 100 (Enter an integer)</string>
+    <string name="tvTitulo_errEmpt">GUESS THE NUMBER BETWEEN 1 TO 100 (Fill)</string>
+    <!--PlayActivity-->
+    <string name="txEstado_errInt">Enter a number</string>
+    <!--Fin Errores-->
+</resources>

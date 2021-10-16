@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumer</string>
+    <string name="tvNombre">Introduce tu nombre</string>
+    <string name="edText"></string>
+    <string name="tvIntentos">¿Cuantos Intentos?</string>
+    <string name="tvTitulo">ADIVINA EL NUMERO ENTRE EL 1 AL 100</string>
+    <string name="edText2"></string>
+    <string name="btJugar">¡A jugar!</string>
+    <string name="tvIntenta">Introduce el numero:</string>
+    <string name="edNumero"></string>
+    <string name="btComprobar">Comprueba</string>
+    <string name="btBorra">Borrar</string>
+    <string name="txEstado" />
+    <string name="tvResultado">El numero era: </string>
+    <string name="tvFin">Perdiste</string>
+    <string name="tvFin2">Ganaste</string>
+    <string name="tvResultadoGanaste">Los Intentos que te costado: </string>
+    <string name="txEstadoIn">Intentos Restantes </string>
+    <string name="txEstado1">Acertaste</string>
+    <string name="txEstado2">Es menor</string>
+    <string name="txEstado3">Es mayor</string>
+    <!--Errores-->
+    <!--ConfigActivity-->
+    <string name="tvTitulo_errInt">ADIVINA EL NUMERO ENTRE EL 1 AL 100 (Introduce un entero)</string>
+    <string name="tvTitulo_errEmpt">ADIVINA EL NUMERO ENTRE EL 1 AL 100 (Rellena)</string>
+    <!--PlayActivity-->
+    <string name="txEstado_errInt">Introduce un numero</string>
+    <!--Fin Errores-->
+</resources>
